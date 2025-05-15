@@ -1,13 +1,29 @@
-title: Шаблон проекта документации
+title: Стартовая страница
 href: index.yaml
+
+navigation:
+ 
+  header:
+    leftItems:
+      - text: "Техническая документация"
+        type: "link"
+        url: "../../docs/ru/tech_doc/"
+      - text: "Пользовательская документация"
+        type: "link"
+        url: "../../docs/ru/user_doc"
+      
+    rightItems:
+      - type: controls
+
 items: 
-  - name: О проекте
-    href: about.md
-  - name: Дополнительная страница
-    href: page.md
-  - name: Другая страница
-    href: anotherpage.md
-  - name: Подраздел
+  - name: CORE backend
+    href: core backend.md
+  - name: Модуль BPM
+    href: userDoc_bpm.md
+   - name: Руководство пользователя
+    href: user manual.md
+    - name: Сценарии использования
+    href: userStories.md
     include:
       path: sub-section/toc.yaml
       mode: link
