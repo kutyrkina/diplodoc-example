@@ -1,0 +1,12 @@
+title: BPM
+href: index.yaml
+items: 
+ - name: Вводный инструктаж
+    href: input_instr.md
+ - name: Руководство пользователя
+    href: user_manual.md
+- name: Сценарии использования
+      include:
+      path: UserStories/toc.yaml
+      mode: link
+
