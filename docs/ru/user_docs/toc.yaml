@@ -1,6 +1,10 @@
-title: Главная страница
+title: Пользовательская документация
 href: index.yaml
 items: 
   - name: BPM
-   href: BPM/input_inst.md
+    include:
+      path: BPM/toc.yaml
+      mode: link
+
+
  
