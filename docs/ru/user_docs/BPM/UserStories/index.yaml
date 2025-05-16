@@ -1,4 +1,6 @@
 title: Сценарии использования
 links:
-  - title: не понимаю что писать
+  - title: us1
     href: US1.md
+- title: us2
+    href: US2.md
