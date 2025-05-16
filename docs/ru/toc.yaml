@@ -6,4 +6,4 @@ items:
       path: docs/ru/user_docs/toc.yaml
       mode: link
   - name: Дополнительная страница
-    href: page.md
+    href: docs/ru/page.md
