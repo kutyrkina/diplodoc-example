@@ -3,11 +3,11 @@ href: index.yaml
 items: 
   - name: Пользовательская документация
     include:
-      path: user_docs/toc.yaml
+      path: ru/user_docs/toc.yaml
       mode: link
   - name: Подраздел
     include:
-      path: sub-section/toc.yaml
+      path: ru/sub-section/toc.yaml
       mode: link
   - name: О проекте
     href: about.md
