@@ -5,9 +5,9 @@ items:
       include:
       path: tech_doc/toc.yaml
       mode: link
-  -  name: Техническая документация
+  -  name: Пользовательская документация
       include:
-      path: user_doc/toc.yaml
+      path: user_docs/toc.yaml
       mode: link
   - name: Дополнительная страница
     href: page.md
