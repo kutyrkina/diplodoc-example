@@ -5,3 +5,13 @@ items:
     include:
       path: user_docs/toc.yaml
       mode: link
+  - name: Подраздел
+    include:
+      path: sub-section/toc.yaml
+      mode: link
+  - name: О проекте
+    href: about.md
+  - name: Дополнительная страница
+    href: page.md
+  - name: Другая страница
+    href: anotherpage.md
