@@ -2,9 +2,9 @@ title: BPM
 href: index.yaml
 items: 
  - name: Вводный инструктаж
-    href: input_instr.md
+    href: docs/ru/user_docs/BPM/input_inst.md
  - name: Руководство пользователя
-    href: user_manual.md
+    href: docs/ru/user_docs/BPM/user_manual.md
 - name: Сценарии использования
       include:
       path: docs/ru/user_docs/BPM/UserStories/toc.yaml
