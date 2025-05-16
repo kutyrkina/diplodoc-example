@@ -3,7 +3,5 @@ href: index.yaml
 items: 
   - name: BPM
       include:
-      path: BPM/toc.yaml
+      path: docs/ru/user_docs/toc.yaml
       mode: link
-  - name: Админка
-    href: page.md
