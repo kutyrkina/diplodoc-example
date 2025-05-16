@@ -2,6 +2,6 @@ title: Сценарии использования
 href: index.yaml
 items: 
   - name: US1
-    href: docs/ru/user_docs/BPM/UserStories/US1.md
+    href: US1.md
  - name: US2
-   href: docs/ru/user_docs/BPM/UserStories/US2.md
+   href: US2.md
