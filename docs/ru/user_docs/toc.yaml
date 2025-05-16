@@ -3,7 +3,7 @@ href: index.yaml
 items: 
   - name: BPM
     include:
-      path: BPM/toc.yaml
+      path: ru/user_docs/BPM/toc.yaml
       mode: link
 
 
