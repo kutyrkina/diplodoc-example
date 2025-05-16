@@ -1,9 +1,7 @@
 title: Стартовая страница
 links:
-  - title: Техническая документация
-    href: tech_doc/
   - title: Пользовательская документация
-    href: user_docs/
+    href: docs/ru/user_docs/
     
  
  
