@@ -3,5 +3,5 @@ href: index.yaml
 items: 
    -  name: Пользовательская документация
       include:
-      path: docs/ru/user_docs/toc.yaml
+      path: user_docs/toc.yaml
       mode: link
