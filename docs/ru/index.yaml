@@ -1,10 +1,10 @@
-title: Документация
+title: Шаблон документации
 links:
-  - name: CORE backend
-    href: core backend.md
-  - name: Модуль BPM
-    href: userDoc_bpm.md
-   - name: Руководство пользователя
-    href: user manual.md
-    - name: Сценарии использованияя
-    href: userStories.md
+  - title: О проекте
+    href: about.md
+  - title: Страница Diplodoc на главной странице
+    href: page.md
+  - title: Структура YFM на главной странице
+    href: anotherpage.md
+  - title: Подраздел на главной странице
+    href: sub-section/
