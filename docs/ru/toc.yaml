@@ -2,6 +2,4 @@ title: Главная страница
 href: index.yaml
 items: 
    -  name: Пользовательская документация
-      include:
-      path: user_docs/toc.yaml
-      mode: link
+      href: about.md
