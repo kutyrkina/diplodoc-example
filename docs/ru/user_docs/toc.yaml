@@ -2,9 +2,8 @@ title: Пользовательская документация
 href: index.yaml
 items: 
   - name: BPM
-    include:
-      path: ru/user_docs/BPM/toc.yaml
-      mode: link
+  href: module_BPM.md
+  
 
 
  
