@@ -1,7 +1,9 @@
 title: Стартовая страница
 links:
   - title: Пользовательская документация
-    href: user_docs/
+    href: about.md
+
+
     
  
  
