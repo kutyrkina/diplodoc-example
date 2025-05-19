@@ -1,6 +1,5 @@
 title: Пользовательская документация
 links:
   - title: какая-то страница
-    href: BPM/user_manual.md
-  - title: BPM
-    href: BPM/
+    href: module_BPM.md
+ 
